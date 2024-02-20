@@ -41,6 +41,8 @@ six==1.16.0
 smmap==5.0.1
 soupsieve==2.5
 streamlit==1.31.1
+streamlit-option-menu==0.3.12
+streamlit-tags==1.2.8
 tenacity==8.2.3
 threadpoolctl==3.3.0
 toml==0.10.2
